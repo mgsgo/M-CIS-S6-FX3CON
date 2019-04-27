@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.20131013
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o C:\_sync\MGSG\_github_upload\EXAMPLES\CIS_BYPASS_LEFT_1280x720\FPGA_com\mcs//CIS_BYPASS_LEFT_1280x720 -s 8192 -u 0000 C:/_sync/MGSG/_github_upload/EXAMPLES/CIS_BYPASS_LEFT_1280x720/FPGA_com/cis_bypass_left_1280x720.bit -spi 
+
+PROM C:\_sync\MGSG\_github_upload\EXAMPLES\CIS_BYPASS_LEFT_1280x720\FPGA_com\mcs\CIS_BYPASS_LEFT_1280x720.prm map: Sat Apr 27 16:36:23 2019
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          8192K
+PROM start    0000:0000
+PROM end      007f:ffff
+PROM checksum 7877270d
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0007:1587     Apr 27 16:35:43 2019 C:/_sync/MGSG/_github_upload/EXAMPLES/CIS_BYPASS_LEFT_1280x720/FPGA_com/cis_bypass_left_1280x720.bit
