@@ -1,0 +1,4 @@
+18:16:30 **** Clean-only build of configuration Release for project AN75779_2560x720 ****
+cs-make clean 
+cs-rm -rf  ./camera_ptzcontrol.o ./cyfx_gcc_startup.o ./cyfxtx.o ./cyfxuvcdscr.o ./sensor.o ./uvc.o  ./camera_ptzcontrol.d ./cyfxtx.d ./cyfxuvcdscr.d ./sensor.d ./uvc.d  ./cyfx_gcc_startup.d  AN75779_2560x720.elf
+' '
