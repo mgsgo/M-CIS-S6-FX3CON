@@ -1,1 +1,1 @@
-initial test
+MGSG-CIS-S6-FX3CON HW, FW, DOC
