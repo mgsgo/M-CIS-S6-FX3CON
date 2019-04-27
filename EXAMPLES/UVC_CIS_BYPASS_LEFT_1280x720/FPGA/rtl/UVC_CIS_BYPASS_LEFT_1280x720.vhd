@@ -3,7 +3,7 @@
 -- Engineer:       jhyoo
 -- 
 -- Create Date:    2017
--- Design Name:    CIS_BYPASS_LEFT_1280x720
+-- Design Name:    UVC_CIS_BYPASS_LEFT_1280x720
 -- Module Name:    FPGA - Behavioral 
 -- Project Name:   MGSG-CIS-S6-FX3CON_EXAMPLE
 -- Target Devices: XC6SLX16-2FTG256
