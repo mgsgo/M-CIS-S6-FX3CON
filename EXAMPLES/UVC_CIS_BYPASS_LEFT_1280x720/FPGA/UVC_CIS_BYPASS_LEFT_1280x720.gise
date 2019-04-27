@@ -19,7 +19,7 @@
 
   <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
 
-  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="CIS_BYPASS_LEFT_1280x720.xise"/>
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="UVC_CIS_BYPASS_LEFT_1280x720.xise"/>
 
   <files xmlns="http://www.xilinx.com/XMLSchema"/>
 

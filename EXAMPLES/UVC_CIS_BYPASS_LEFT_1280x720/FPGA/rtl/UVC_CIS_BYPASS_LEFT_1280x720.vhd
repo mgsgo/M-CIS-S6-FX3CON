@@ -23,7 +23,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.std_logic_ARITH.ALL;
 use IEEE.std_logic_UNSIGNED.ALL;
 
-entity CIS_BYPASS_LEFT_1280x720 is
+entity UVC_CIS_BYPASS_LEFT_1280x720 is
 port(
 --clk
 i_clk_100mhz            : in     std_logic;      --100mhz
@@ -70,9 +70,9 @@ io_fx3_spi_ssn_uart_cts : inout  std_logic;
 io_fx3_spi_sck_uart_rts : inout  std_logic;
 io_fx3_GPIO45           : inout  std_logic
 );
-end CIS_BYPASS_LEFT_1280x720;
+end UVC_CIS_BYPASS_LEFT_1280x720;
 
-architecture Behavioral of CIS_BYPASS_LEFT_1280x720 is
+architecture Behavioral of UVC_CIS_BYPASS_LEFT_1280x720 is
 
 --components-------------------------------------------------------------------
 component clock_wizard_100mhz_input
