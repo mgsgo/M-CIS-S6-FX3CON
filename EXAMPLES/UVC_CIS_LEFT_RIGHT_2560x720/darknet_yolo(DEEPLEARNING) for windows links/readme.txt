@@ -17,7 +17,7 @@
 
 5. cmd file execute
 	darknet\build\darknet\x64\darknet_web_cam_voc.cmd
-	real time object detection.
+	real time object detection from UVC camera
 	Nvidia GPU needed
 
 
