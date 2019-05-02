@@ -1,3 +1,4 @@
+¡Ü real time object detection from UVC camera(M-CIS-S6-FX3CON)
 0. DARKNET yolo page
 	https://pjreddie.com/darknet/yolo/
 
@@ -17,9 +18,27 @@
 
 5. cmd file execute
 	darknet\build\darknet\x64\darknet_web_cam_voc.cmd
-	real time object detection from UVC camera
+	
 	Nvidia GPU needed
 
 
+¡Ü video capture using UVC camera(M-CIS-S6-FX3CON) and daumpotplayer
+1. install daumpotplayer
+ 	https://potplayer.daum.net/
+
+2. mp4 capture using M-CIS-S6-FX3CON(UVC camera)
 
 
+¡Ü object detection from video file(mp4)
+1. video file rename and move
+	rename video file to test.mp4
+	move to darknet\build\darknet\x64
+
+2. install opencv 3.4.0
+	https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.4.0/
+
+3. file copy opencv_ffmpeg340_64.dll
+	copy opencv\build\bin\opencv_ffmpeg340_64.dll to darknet\build\darknet\x64
+
+4. cmd file execute
+	darknet\build\darknet\x64\darknet_yolo_v3_video.cmd
