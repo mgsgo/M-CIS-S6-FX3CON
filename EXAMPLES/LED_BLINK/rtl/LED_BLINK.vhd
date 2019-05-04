@@ -8,7 +8,7 @@
 -- Project Name:   MGSG-CIS-S6-FX3CON_EXAMPLE
 -- Target Devices: XC6SLX16-2FTG256
 -- Tool versions:  ISE14.7
--- Description:    LED blink example
+-- Description:    LED blink is the simplest example for M-CIS-S6-FX3CON, toggle LED D8/D9 
 -- License:        LGPL
 --
 -- Dependencies:   

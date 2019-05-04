@@ -19,7 +19,7 @@
 5. cmd file execute
 	darknet\build\darknet\x64\darknet_web_cam_voc.cmd
 	
-	Nvidia GPU needed
+	Nvidia GPU needed, GTX750TI ==> 11fps
 
 
 ¡Ü video capture using UVC camera(M-CIS-S6-FX3CON) and daumpotplayer
