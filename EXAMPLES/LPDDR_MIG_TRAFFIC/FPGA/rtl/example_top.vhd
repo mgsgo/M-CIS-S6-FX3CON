@@ -568,10 +568,10 @@ end process;
 --led--------------------------------------------------------------------------
 io_led_D8				<= not s_cnt_32bit(24) when error = '0' else
                         '1';				--D8 low ON
-                      --no error ==> D8 ON
-io_led_D9				<= s_cnt_32bit(24) when calib_done = '1' else
+                      --no error ==> D8 blink
+io_led_D9				<= s_cnt_32bit(24) when error = '0' else
                         '0';			--D9 high ON
-                      --calibration done ==> D9 ON
+                      --no error ==> D9 blink
 --end led----------------------------------------------------------------------
 
 --gpio-------------------------------------------------------------------------
