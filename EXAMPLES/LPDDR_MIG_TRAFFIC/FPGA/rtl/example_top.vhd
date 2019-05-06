@@ -566,9 +566,11 @@ end process;
 
 
 --led--------------------------------------------------------------------------
-io_led_D8				<= error;				--D8 low ON
+io_led_D8				<= not s_cnt_32bit(24) when error = '0' else
+                        '1';				--D8 low ON
                       --no error ==> D8 ON
-io_led_D9				<= calib_done;			--D9 high ON
+io_led_D9				<= s_cnt_32bit(24) when calib_done = '1' else
+                        '0';			--D9 high ON
                       --calibration done ==> D9 ON
 --end led----------------------------------------------------------------------
 
@@ -582,8 +584,8 @@ s_clk_200mhz_n			<= not s_clk_200mhz;
 CLK_FEDD_14_1 : ODDR2
 generic map(DDR_ALIGNMENT => "NONE",	INIT          => '0',	SRTYPE        => "SYNC")
 port map(
-Q           => o_extclk_fb_B14_1,			--port
-C0          => s_clk_200mhz,		--output
+Q           => o_extclk_fb_B14_1,	--port
+C0          => s_clk_200mhz,			--output
 C1          => s_clk_200mhz_n,		--not output
 CE          => '1',	D0          => '1',	D1          => '0',	R           => '0',	S           => '0');
 

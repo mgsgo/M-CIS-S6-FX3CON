@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.20131013
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\LPDDR_MIG_TRAFFIC\mcs//LPDDR_MIG_TRAFFIC -s 8192 -u 0000 C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/LPDDR_MIG_TRAFFIC/lpddr_mig_traffic.bit -spi 
+
+PROM C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\LPDDR_MIG_TRAFFIC\mcs\LPDDR_MIG_TRAFFIC.prm map: Mon May 06 22:55:10 2019
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          8192K
+PROM start    0000:0000
+PROM end      007f:ffff
+PROM checksum 7893619b
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0007:1587     May 06 22:54:12 2019 C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/LPDDR_MIG_TRAFFIC/lpddr_mig_traffic.bit

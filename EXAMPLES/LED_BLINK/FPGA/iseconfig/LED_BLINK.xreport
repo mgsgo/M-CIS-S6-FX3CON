@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2019-05-06T22:20:18</DateModified>
+  <DateModified>2019-05-06T22:51:30</DateModified>
   <ModuleName>LED_BLINK</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/_sync/MGSG/_github_upload/EXAMPLES/LED_BLINK/iseconfig/LED_BLINK.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/_sync/MGSG/_github_upload/EXAMPLES/LED_BLINK\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/_sync/MGSG/_github_upload/EXAMPLES/LED_BLINK/FPGA/iseconfig/LED_BLINK.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/_sync/MGSG/_github_upload/EXAMPLES/LED_BLINK/FPGA\</ImplementationReportsDirectory>
   <DateInitialized>2019-04-24T16:49:58</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
