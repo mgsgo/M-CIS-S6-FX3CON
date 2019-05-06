@@ -1,0 +1,2 @@
+vhdl work ../../clock_wizard_100mhz_input.vhd
+vhdl work ../example_design/clock_wizard_100mhz_input_exdes.vhd
