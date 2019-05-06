@@ -13,13 +13,13 @@
          <ClosedNode>/LPDDR_MIG_TRAFFIC - arc C:|_sync|MGSG|_github_upload|EXAMPLES|LPDDR_MIG_TRAFFIC|rtl|example_top.vhd/memc1_wrapper_inst - memc1_wrapper - acch</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>MIG_LPDDR (C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/iseconfig/MIG_LPDDR.xco)</SelectedItem>
+         <SelectedItem>LPDDR_MIG_TRAFFIC - arc (C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/example_top.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000298000000020000000000000000000000000200000064ffffffff000000810000000300000002000002980000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>MIG_LPDDR (C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/iseconfig/MIG_LPDDR.xco)</CurrentItem>
+      <CurrentItem>LPDDR_MIG_TRAFFIC - arc (C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/example_top.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -72,7 +72,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000118000000010000000100000000000000000000000064ffffffff000000810000000000000001000001180000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e2000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e20000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem></CurrentItem>
    </ItemView>
@@ -88,7 +88,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000118000000010000000100000000000000000000000064ffffffff000000810000000000000001000001180000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e2000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e20000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem></CurrentItem>
    </ItemView>
