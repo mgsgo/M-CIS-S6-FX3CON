@@ -11,5 +11,74 @@
 <msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/example_top.vhd&quot; into library work</arg>
 </msg>
 
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/iodrp_controller.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/iodrp_mcb_controller.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/mcb_raw_wrapper.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/mcb_soft_calibration.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/mcb_soft_calibration_top.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/memc1_infrastructure.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/memc1_tb_top.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/memc1_wrapper.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/afifo.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/cmd_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/cmd_prbs_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/data_prbs_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/init_mem_pattern_ctr.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/mcb_flow_control.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/mcb_traffic_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/rd_data_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/read_data_path.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/read_posted_fifo.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/sp6_data_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/tg_status.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/v6_data_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/wr_data_gen.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/LPDDR_MIG_TRAFFIC/FPGA/rtl/traffic_gen/write_data_path.vhd&quot; into library work</arg>
+</msg>
+
 </messages>
 

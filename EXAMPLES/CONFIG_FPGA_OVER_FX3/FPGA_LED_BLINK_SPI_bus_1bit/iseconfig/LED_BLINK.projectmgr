@@ -9,13 +9,13 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>LED_BLINK - Behavioral (C:/_sync/MGSG/_github_upload/EXAMPLES/LED_BLINK/FPGA/rtl/LED_BLINK.vhd)</SelectedItem>
+         <SelectedItem>LED_BLINK - Behavioral (C:/_sync/MGSG/_github_upload/EXAMPLES/CONFIG_FPGA_OVER_FX3/FPGA_LED_BLINK_SPI_bus_1bit/rtl/LED_BLINK.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000143000000020000000000000000000000000200000064ffffffff000000810000000300000002000001430000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>LED_BLINK - Behavioral (C:/_sync/MGSG/_github_upload/EXAMPLES/LED_BLINK/FPGA/rtl/LED_BLINK.vhd)</CurrentItem>
+      <CurrentItem>LED_BLINK - Behavioral (C:/_sync/MGSG/_github_upload/EXAMPLES/CONFIG_FPGA_OVER_FX3/FPGA_LED_BLINK_SPI_bus_1bit/rtl/LED_BLINK.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -68,7 +68,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000a0000000010000000100000000000000000000000064ffffffff000000810000000000000001000000a00000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000124000000010000000100000000000000000000000064ffffffff000000810000000000000001000001240000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>Generate Programming File</CurrentItem>
    </ItemView>
