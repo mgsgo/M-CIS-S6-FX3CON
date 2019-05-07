@@ -8,7 +8,19 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/UVC_CIS_LEFT_RIGHT_2560x720/FPGA/rtl/FPGA.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/UVC_CIS_LEFT_RIGHT_2560x720/FPGA/rtl/ram_dual.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/UVC_CIS_LEFT_RIGHT_2560x720/FPGA/rtl/video_add_LV_when_FV_low.vhd&quot; into library work</arg>
+</msg>
+
 <msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/UVC_CIS_LEFT_RIGHT_2560x720/FPGA/rtl/video_merge_two16bit1280x720_to_one16bit2560x720_ram_packing.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/_sync/MGSG/_github_upload/EXAMPLES/UVC_CIS_LEFT_RIGHT_2560x720/FPGA/rtl/video_merge_two8bit1280x720_to_one16bit2560x720.vhd&quot; into library work</arg>
 </msg>
 
 </messages>
