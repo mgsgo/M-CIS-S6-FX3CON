@@ -1,24 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date:   2017
--- Design Name: 
--- Module Name:   FPGA - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
--- Description: 
---
--- Dependencies: 
---
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
---
-----------------------------------------------------------------------------------
 -- Company:        MGSG
--- Engineer:       jhyoo
+-- Engineer:       jhyoo, mgsg.opensource@gmail.com
 -- 
 -- Create Date:    2019
 -- Design Name:    UVC_CIS_LEFT_RIGHT_2560x720
@@ -27,7 +9,7 @@
 -- Target Devices: XC6SLX16-2FTG256
 -- Tool versions:  ISE14.7
 -- Description:    Example of UVC(Universal Video Class) camera using 2 image sensors(MT9M114)
--- License:        LGPL
+-- License:        BSD 2-Clause
 --
 -- Dependencies:   
 --

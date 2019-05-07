@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company:        MGSG
--- Engineer:       jhyoo
+-- Engineer:       jhyoo, mgsg.opensource@gmail.com
 -- 
 -- Create Date:    2017
 -- Design Name:    UVC_CIS_BYPASS_LEFT_1280x720
@@ -9,7 +9,7 @@
 -- Target Devices: XC6SLX16-2FTG256
 -- Tool versions:  ISE14.7
 -- Description:    Example of UVC(Universal Video Class) camera using 1 image sensor(MT9M114)
--- License:        LGPL
+-- License:        BSD 2-Clause
 --
 -- Dependencies:   
 --

@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company:        MGSG
--- Engineer:       jhyoo
+-- Engineer:       jhyoo, mgsg.opensource@gmail.com
 -- 
 -- Create Date:    2017
 -- Design Name:    LED_BLINK
@@ -9,7 +9,7 @@
 -- Target Devices: XC6SLX16-2FTG256
 -- Tool versions:  ISE14.7
 -- Description:    LED blink is the simplest example for M-CIS-S6-FX3CON, toggle LED D8/D9 
--- License:        LGPL
+-- License:        BSD 2-Clause
 --
 -- Dependencies:   
 --
