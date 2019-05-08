@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.20131013
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\HDMI_TMDS_VIDEO_OUT\FPGA_1920x1080_30Hz\mcs//HDMI_TMDS_VIDEO_OUT_1920x1080_30Hz -s 8192 -u 0000 C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPGA_1920x1080_30Hz/hdmi_tmds_video_out.bit -spi 
+
+PROM C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\HDMI_TMDS_VIDEO_OUT\FPGA_1920x1080_30Hz\mcs\HDMI_TMDS_VIDEO_OUT_1920x1080_30Hz.prm map: Thu May 09 00:35:17 2019
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          8192K
+PROM start    0000:0000
+PROM end      007f:ffff
+PROM checksum 78884b48
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0007:1587     May 09 00:29:54 2019 C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPGA_1920x1080_30Hz/hdmi_tmds_video_out.bit
