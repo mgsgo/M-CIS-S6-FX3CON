@@ -13,3 +13,10 @@ and fill zeros unused ROMs
 
 open FPGA project using ISE14.7
 generate programming file
+
+download bit file using JTAG
+
+COM port open using terminal(BAUD 115200, data 8bit, no parity, 1 stopbit, no HANDSHAKING)
+  send '8' ==> LED8 ON
+  send '9' ==> LED9 ON
+  send '0' ==> LED8 and LED9 OFF
