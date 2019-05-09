@@ -9,15 +9,16 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
          <ClosedNode>/SOFT_CPU_AT90S2313 - Behavioral S:|sync|MGSG|201705_MGSG-CIS-S6-FX3CON|sch_rev101|codes|SOFT_CPU_AT90S2313|FPGA|rtl|SOFT_CPU_AT90S2313.vhd/A90S2313_u0 - A90S2313 - rtl</ClosedNode>
          <ClosedNode>/SOFT_CPU_AT90S2313 - Behavioral S:|sync|MGSG|201705_MGSG-CIS-S6-FX3CON|sch_rev101|codes|SOFT_CPU_AT90S2313|FPGA|rtl|SOFT_CPU_AT90S2313.vhd/A90S2313_u0 - A90S2313 - rtl/ax - AX8 - rtl</ClosedNode>
+         <ClosedNode>/SOFT_CPU_AT90S2313 - Behavioral ||nasc|data_new|MGSG|201705_MGSG-CIS-S6-FX3CON|_github_upload|EXAMPLES|SOFT_CPU_AT90S2313|FPGA|rtl|SOFT_CPU_AT90S2313.vhd/A90S2313_u0 - A90S2313 - rtl</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>SOFT_CPU_AT90S2313 - Behavioral (S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA/rtl/SOFT_CPU_AT90S2313.vhd)</SelectedItem>
+         <SelectedItem>SOFT_CPU_AT90S2313 - Behavioral (//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/SOFT_CPU_AT90S2313.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000029c000000020000000000000000000000000200000064ffffffff0000008100000003000000020000029c0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>SOFT_CPU_AT90S2313 - Behavioral (S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA/rtl/SOFT_CPU_AT90S2313.vhd)</CurrentItem>
+      <CurrentItem>SOFT_CPU_AT90S2313 - Behavioral (//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/SOFT_CPU_AT90S2313.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -25,13 +26,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000012a000000010000000100000000000000000000000064ffffffff0000008100000000000000010000012a0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView guiview="File" >
       <ClosedNodes>
@@ -66,14 +67,28 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem>Generate Programming File</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000b6000000010000000100000000000000000000000064ffffffff000000810000000000000001000000b60000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem>Generate Programming File</CurrentItem>
    </ItemView>
    <SourceProcessView>000000ff0000000000000002000001060000008d01000000050100000002</SourceProcessView>
    <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f0000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f00000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
 </Project>

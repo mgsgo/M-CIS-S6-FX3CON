@@ -88,8 +88,8 @@ int main(void){
     InitUART(UART0_BAUD_SELECT);
 
 
-    TransmitLength("MGSG ", 5);
-    TransmitString("AT90S2313 soft core test");
+    TransmitLength("MGSG \n", 6);
+    TransmitString("AT90S2313 soft core test\0");
 
 
     while(1){

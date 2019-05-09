@@ -1,9 +1,9 @@
 PROMGEN: Xilinx Prom Generator P.20131013
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
-promgen -w -p mcs -c FF -o "S:\sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\SOFT_CPU_AT90S2313\FPGA - test\mcs//SOFT_CPU_AT90S2313" -s 8192 -u 0000 "S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA - test/soft_cpu_at90s2313.bit" -spi 
+promgen -w -p mcs -c FF -o S:\sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\SOFT_CPU_AT90S2313\FPGA2\mcs//SOFT_CPU_AT90S2313 -s 8192 -u 0000 S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA2/soft_cpu_at90s2313.bit -spi 
 
-PROM S:\sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\SOFT_CPU_AT90S2313\FPGA - test\mcs\SOFT_CPU_AT90S2313.prm map: Thu May 09 17:55:27 2019
+PROM S:\sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\SOFT_CPU_AT90S2313\FPGA2\mcs\SOFT_CPU_AT90S2313.prm map: Thu May 09 18:18:58 2019
 
 Calculating PROM checksum with fill value ff
 
@@ -11,7 +11,7 @@ Format        Mcs86 (32-bit)
 Size          8192K
 PROM start    0000:0000
 PROM end      007f:ffff
-PROM checksum 78a8e302
+PROM checksum 78a8be7b
 
         Addr1        Addr2                     Date File(s)
-    0000:0000    0007:165b     May 09 17:54:03 2019 S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA - test/soft_cpu_at90s2313.bit
+    0000:0000    0007:169f     May 09 18:18:45 2019 S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA2/soft_cpu_at90s2313.bit

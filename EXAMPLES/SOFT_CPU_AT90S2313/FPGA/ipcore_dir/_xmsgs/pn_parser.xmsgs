@@ -8,7 +8,7 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA/ipcore_dir/clock_wizard_100mhz_input.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/ipcore_dir/clock_wizard_100mhz_input.vhd&quot; into library work</arg>
 </msg>
 
 </messages>

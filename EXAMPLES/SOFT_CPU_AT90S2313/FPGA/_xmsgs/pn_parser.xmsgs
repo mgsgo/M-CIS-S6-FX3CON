@@ -8,10 +8,46 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA/rtl/SOFT_CPU_AT90S2313.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/SOFT_CPU_AT90S2313.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;S:/sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/mem1.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/A90S2313.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX8.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_ALU.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_DPRAM.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_PCS.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_Pack.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_Port.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_RAM.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_Reg.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_TC16.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_TC8.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/AX_UART.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;//nasc/data_new/MGSG/201705_MGSG-CIS-S6-FX3CON/_github_upload/EXAMPLES/SOFT_CPU_AT90S2313/FPGA/rtl/ax8_opencores_vhdl/mem1.vhd&quot; into library work</arg>
 </msg>
 
 </messages>
