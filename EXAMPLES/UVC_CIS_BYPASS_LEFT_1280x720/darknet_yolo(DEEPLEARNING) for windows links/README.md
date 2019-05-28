@@ -1,5 +1,5 @@
-¡Ü real time object detection from UVC camera(M-CIS-S6-FX3CON)
-0. DARKNET yolo page
+## real time object detection from UVC camera(M-CIS-S6-FX3CON)
+- 0. DARKNET yolo page
 	https://pjreddie.com/darknet/yolo/
 
 1. install Visual C++ Redistributable for MSVS2015
