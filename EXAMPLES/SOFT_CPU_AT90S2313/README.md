@@ -1,4 +1,4 @@
-SOFT CPU core example AT90S2313 using opencores AX8
+## SOFT CPU core example AT90S2313 using opencores AX8
   https://opencores.org/projects/ax8
 
 open AVR_AT90S2313\AVR_AT90S2313.aps and build AVRSTUDIO AVRSTUDIO 4.19 build 730

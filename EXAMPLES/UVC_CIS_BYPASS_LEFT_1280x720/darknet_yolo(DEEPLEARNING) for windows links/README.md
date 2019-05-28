@@ -17,9 +17,8 @@
 4. unzip
 
 5. cmd file execute
-
 	darknet\build\darknet\x64\darknet_web_cam_voc.cmd
-	
+
 	Nvidia GPU needed
 
 

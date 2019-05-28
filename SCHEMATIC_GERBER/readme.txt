@@ -1,1 +1,0 @@
-Schematic and GERBER file(pdf)
