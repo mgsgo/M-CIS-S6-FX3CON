@@ -23,14 +23,14 @@
 	Nvidia GPU needed
 
 
-¡Ü video capture using UVC camera(M-CIS-S6-FX3CON) and daumpotplayer
+## video capture using UVC camera(M-CIS-S6-FX3CON) and daumpotplayer
 1. install daumpotplayer
  	https://potplayer.daum.net/
 
 2. mp4 capture using M-CIS-S6-FX3CON(UVC camera)
 
 
-¡Ü object detection from video file(mp4)
+## object detection from video file(mp4)
 1. video file rename and move
 	rename video file to test.mp4
 	move to darknet\build\darknet\x64
