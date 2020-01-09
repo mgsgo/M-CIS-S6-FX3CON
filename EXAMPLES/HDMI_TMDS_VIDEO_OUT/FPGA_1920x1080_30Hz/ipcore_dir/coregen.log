@@ -1,53 +1,5 @@
 INFO:sim:172 - Generating IP...
-Resolving generics for 'clock_wizard_100mhz_input'...
-Applying external generics to 'clock_wizard_100mhz_input'...
-Delivering associated files for 'clock_wizard_100mhz_input'...
-WARNING:sim - Component clk_wiz_v3_6 does not have a valid model name for VHDL
-   synthesis
-Delivering EJava files for 'clock_wizard_100mhz_input'...
-Delivered 3 files into directory
-C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPG
-A/ipcore_dir/tmp/_cg/clock_wizard_100mhz_input
-Delivered 1 file into directory
-C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPG
-A/ipcore_dir/tmp/_cg/clock_wizard_100mhz_input
-Generating ASY schematic symbol...
-Loading device for application Rf_Device from file '6slx16.nph' in environment
-C:\Xilinx\14.7\ISE_DS\ISE\.
-INFO:sim:949 - Finished generation of ASY schematic symbol.
-Generating SYM schematic symbol for 'clock_wizard_100mhz_input'...
-Generating ISE project...
-XCO file found: clock_wizard_100mhz_input.xco
-XMDF file found: clock_wizard_100mhz_input_xmdf.tcl
-Adding
-C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPG
-A/ipcore_dir/tmp/_cg/clock_wizard_100mhz_input.asy -view all -origin_type
-imported
-Adding
-C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPG
-A/ipcore_dir/tmp/_cg/clock_wizard_100mhz_input.ucf -view all -origin_type
-created
-Adding
-C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPG
-A/ipcore_dir/tmp/_cg/clock_wizard_100mhz_input.vhd -view all -origin_type
-created
-INFO:HDLCompiler:1061 - Parsing VHDL file
-   "C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT
-   /FPGA/ipcore_dir/tmp/_cg/clock_wizard_100mhz_input.vhd" into library work
-INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
-Adding
-C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPG
-A/ipcore_dir/tmp/_cg/clock_wizard_100mhz_input.vho -view all -origin_type
-imported
-INFO:TclTasksC:2116 - The automatic calculation of top has been turned-off.
-   Please set the new top explicitly by running the "project set top" command.
-   To re-calculate the new top automatically, set the "Auto Implementation Top"
-   property to true.
-Top level has been set to "/clock_wizard_100mhz_input"
-Generating README file...
-Generating FLIST file...
-INFO:sim:948 - Finished FLIST file generation.
-Launching README viewer...
-Moving files to output directory...
-Finished moving files to output directory
+Applying current project options...
+Finished applying current project options.
+Cancelled executing Tcl generator.
 Wrote CGP file for project 'clock_wizard_100mhz_input'.

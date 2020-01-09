@@ -112,19 +112,11 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.lso"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.ngc"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.ngr"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.prj"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.stx"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.syr"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.xst"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_xst.xrpt"/>
+      <status xil_pn:value="OutputRemoved"/>
       <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
-      <outfile xil_pn:name="webtalk_pn.xml"/>
-      <outfile xil_pn:name="xst"/>
     </transform>
     <transform xil_pn:end_ts="1557328220" xil_pn:in_ck="-4659094118995979332" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="9077374464389888542" xil_pn:start_ts="1557328220">
       <status xil_pn:value="SuccessfullyRun"/>
@@ -133,62 +125,50 @@
     <transform xil_pn:end_ts="1557329494" xil_pn:in_ck="4930773653516486538" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-3389170820612295832" xil_pn:start_ts="1557329490">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.bld"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.ngd"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_ngdbuild.xrpt"/>
-      <outfile xil_pn:name="_ngo"/>
-      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1557329507" xil_pn:in_ck="8591838369522971652" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="170182801565208134" xil_pn:start_ts="1557329494">
       <status xil_pn:value="SuccessfullyRun"/>
-      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="NotReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
       <status xil_pn:value="OutputChanged"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.pcf"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_map.map"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_map.mrp"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_map.ncd"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_map.ngm"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_map.xrpt"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_summary.xml"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_usage.xml"/>
-      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1557329517" xil_pn:in_ck="2043883801733283613" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="-1178055513630676559" xil_pn:start_ts="1557329507">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
-      <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.ncd"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.pad"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.par"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.ptwx"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.unroutes"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.xpi"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_pad.csv"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_pad.txt"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT_par.xrpt"/>
-      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <status xil_pn:value="NotReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1557329526" xil_pn:in_ck="1771771061953333417" xil_pn:name="TRANEXT_bitFile_spartan6" xil_pn:prop_ck="-7726309304543537296" xil_pn:start_ts="1557329517">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
-      <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.ut"/>
-      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
-      <outfile xil_pn:name="hdmi_tmds_video_out.bgn"/>
-      <outfile xil_pn:name="hdmi_tmds_video_out.bin"/>
-      <outfile xil_pn:name="hdmi_tmds_video_out.bit"/>
-      <outfile xil_pn:name="hdmi_tmds_video_out.drc"/>
-      <outfile xil_pn:name="usage_statistics_webtalk.html"/>
-      <outfile xil_pn:name="webtalk.log"/>
-      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <status xil_pn:value="NotReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1557329517" xil_pn:in_ck="-8655392793465975424" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416184" xil_pn:start_ts="1557329513">
       <status xil_pn:value="SuccessfullyRun"/>
-      <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.twr"/>
-      <outfile xil_pn:name="HDMI_TMDS_VIDEO_OUT.twx"/>
-      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <status xil_pn:value="NotReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
   </transforms>
 

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\SOFT_CPU_AT90S2313.vhd" Line 124: Assignment to <arg fmt="%s" index="1">s_rst</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\SOFT_CPU_AT90S2313.vhd" Line 125: Assignment to <arg fmt="%s" index="1">s_clk_50mhz_n</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\SOFT_CPU_AT90S2313.vhd" Line 72: &lt;<arg fmt="%s" index="1">bufg</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 51: Using initial value <arg fmt="%s" index="1">&quot;1111111111111111&quot;</arg> for <arg fmt="%s" index="2">dia</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 52: Using initial value <arg fmt="%s" index="1">&quot;11111111&quot;</arg> for <arg fmt="%s" index="2">dib</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 53: Using initial value <arg fmt="%s" index="1">&quot;11&quot;</arg> for <arg fmt="%s" index="2">dipa</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 54: Using initial value <arg fmt="%s" index="1">&quot;1&quot;</arg> for <arg fmt="%s" index="2">dipb</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 55: Using initial value <arg fmt="%s" index="1">&apos;0&apos;</arg> for <arg fmt="%s" index="2">ena</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 57: Using initial value <arg fmt="%s" index="1">&apos;0&apos;</arg> for <arg fmt="%s" index="2">ssra</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 58: Using initial value <arg fmt="%s" index="1">&apos;0&apos;</arg> for <arg fmt="%s" index="2">ssrb</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 59: Using initial value <arg fmt="%s" index="1">&quot;00&quot;</arg> for <arg fmt="%s" index="2">wea</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\mem1.vhd" Line 60: Using initial value <arg fmt="%s" index="1">&apos;0&apos;</arg> for <arg fmt="%s" index="2">web</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\AX_TC16.vhd" Line 274: Net &lt;<arg fmt="%s" index="1">Samples[4]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\SOFT_CPU_AT90S2313.vhd</arg>&quot; line <arg fmt="%s" index="2">116</arg>: Output port &lt;<arg fmt="%s" index="3">CLK_OUT2</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">clock_wizard_100mhz_input_u0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\SOFT_CPU_AT90S2313.vhd</arg>&quot; line <arg fmt="%s" index="2">152</arg>: Output port &lt;<arg fmt="%s" index="3">OC</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">A90S2313_u0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">S:\_Github_MGSG\SOFT_CPU_AT90S2313_INTERRUPT\FPGA\rtl\ax8_opencores_vhdl\A90S2313.vhd</arg>&quot; line <arg fmt="%s" index="2">321</arg>: Output port &lt;<arg fmt="%s" index="3">WDR</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ax</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Rst_n</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="3035" delta="old" >Index value(s) does not match array range for signal &lt;<arg fmt="%s" index="1">DRAM</arg>&gt;, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Push</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Pop</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">ROM_Data&lt;8:4&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">SREG&lt;5:2&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">SREG&lt;7:7&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">Samples&lt;4&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">Samples&lt;0&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">AX_TC16</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">Samples&lt;1&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">AX_TC16</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">Samples&lt;2&gt;</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">AX_TC16</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">Samples&lt;3&gt;</arg>&lt;<arg fmt="%d" index="2">2</arg>:<arg fmt="%d" index="3">2</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">AX_TC16</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">PIN_Sel</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Int1_r_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">A90S2313_u0</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Int0_r_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">Int1_r_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">A90S2313_u0</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Int0_r_1&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">Int1_r_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">A90S2313_u0</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int1_r_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">A90S2313_u0</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Int_Acc_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ax</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Int_Acc_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ax</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Int_Acc_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ax</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Int_Acc_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ax</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Int_Acc_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ax</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Int_Acc_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ax</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Int_Acc_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ax</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">Int_Acc_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">ax</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="3217" delta="old" >HDL ADVISOR - Register &lt;<arg fmt="%s" index="1">Bit_Pattern</arg>&gt; currently described with an asynchronous reset, could be combined with distributed RAM &lt;<arg fmt="%s" index="2">Mram_ROM_Data[2]_PWR_68_o_wide_mux_139_OUT</arg>&gt; for implementation on block RAM resources if you made this reset synchronous instead.
+</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">g1.dr/Mram_DRAM</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="info" file="Xst" num="3231" delta="old" >The small RAM &lt;<arg fmt="%s" index="1">Mram_ROM_Data[2]_PWR_76_o_wide_mux_53_OUT</arg>&gt; will be implemented on LUTs in order to maximize performance and save block RAM resources. If you want to force its implementation on block, use option/constraint ram_style.
+</msg>
+
+<msg type="info" file="Xst" num="3231" delta="old" >The small RAM &lt;<arg fmt="%s" index="1">Mram_Reg</arg>&gt; will be implemented on LUTs in order to maximize performance and save block RAM resources. If you want to force its implementation on block, use option/constraint ram_style.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">Int1_r_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">A90S2313</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int0_r_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">A90S2313</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int1_r_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">A90S2313</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int0_r_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">A90S2313</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">g1.dr/Wr_Addr_r_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">AX8</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pr/dpramd/Rd_Addr_r_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">g1.dr/Wr_Addr_r_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">AX8</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pr/dpramd/Rd_Addr_r_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">g1.dr/Wr_Addr_r_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">AX8</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pr/dpramd/Rd_Addr_r_3&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">g1.dr/Wr_Addr_r_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">AX8</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pr/dpramd/Rd_Addr_r_4&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">g1.dr/Wr_Addr_r_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">AX8</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pr/dpramd/Rd_Addr_r_0&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">Int_ET_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">A90S2313</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int_ET_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">A90S2313</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">Int_Acc_10</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">AX8</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int_Acc_11</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">AX8</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int_Acc_12</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">AX8</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int_Acc_13</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">AX8</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int_Acc_14</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">AX8</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">Int_Acc_15</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">AX8</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="old" >Instance <arg fmt="%s" index="1">rom/RAMB16BWE_S18_S9_inst_MSB</arg> in unit <arg fmt="%s" index="2">A90S2313</arg> of type <arg fmt="%s" index="3">RAMB16BWE_S18_S9</arg> has been replaced by <arg fmt="%s" index="4">RAMB16BWER</arg>
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="old" >Instance <arg fmt="%s" index="1">rom/RAMB16BWE_S18_S9_inst_LSB</arg> in unit <arg fmt="%s" index="2">A90S2313</arg> of type <arg fmt="%s" index="3">RAMB16BWE_S18_S9</arg> has been replaced by <arg fmt="%s" index="4">RAMB16BWER</arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2042" delta="old" >Unit <arg fmt="%s" index="1">SOFT_CPU_AT90S2313</arg>: <arg fmt="%d" index="2">15</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">A90S2313_u0/ax/Int_Acc_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">A90S2313_u0/ax/Int_Acc_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">A90S2313_u0/ax/Int_Acc_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">A90S2313_u0/ax/Int_Acc_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">A90S2313_u0/ax/WDR</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">A90S2313_u0/tc1/OC_i</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOFT_CPU_AT90S2313</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>

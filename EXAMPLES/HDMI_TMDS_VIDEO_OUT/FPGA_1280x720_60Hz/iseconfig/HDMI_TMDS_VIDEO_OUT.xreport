@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2019-05-09T00:30:59</DateModified>
+  <DateModified>2019-11-20T10:37:20</DateModified>
   <ModuleName>HDMI_TMDS_VIDEO_OUT</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPGA_1280x720_60Hz/iseconfig/HDMI_TMDS_VIDEO_OUT.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/_sync/MGSG/201705_MGSG-CIS-S6-FX3CON/sch_rev101/codes/HDMI_TMDS_VIDEO_OUT/FPGA_1280x720_60Hz</ImplementationReportsDirectory>
+  <SavedFilePath>S:/_Github_MGSG/M-CIS-S6-FX3CON/EXAMPLES/HDMI_TMDS_VIDEO_OUT/FPGA_1280x720_60Hz/iseconfig/HDMI_TMDS_VIDEO_OUT.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>S:/_Github_MGSG/M-CIS-S6-FX3CON/EXAMPLES/HDMI_TMDS_VIDEO_OUT/FPGA_1280x720_60Hz\</ImplementationReportsDirectory>
   <DateInitialized>2019-05-09T00:30:59</DateInitialized>
   <EnableMessageFiltering>true</EnableMessageFiltering>
  </header>
