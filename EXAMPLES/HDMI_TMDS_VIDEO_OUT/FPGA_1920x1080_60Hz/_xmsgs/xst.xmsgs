@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\HDMI_TMDS_VIDEO_OUT\FPGA_1920x1080_30Hz\rtl\HDMI_TMDS_VIDEO_OUT.vhd" Line 117: Assignment to <arg fmt="%s" index="1">s_rst</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="old" >"C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\HDMI_TMDS_VIDEO_OUT\FPGA_1920x1080_30Hz\rtl\HDMI_TMDS_VIDEO_OUT.vhd" Line 66: &lt;<arg fmt="%s" index="1">oddr2</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\HDMI_TMDS_VIDEO_OUT\FPGA_1920x1080_30Hz\rtl\Dvid_serdes\dvid_serdes.vhd</arg>&quot; line <arg fmt="%s" index="2">89</arg>: Output port &lt;<arg fmt="%s" index="3">pclk</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">i_vga_gen</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\HDMI_TMDS_VIDEO_OUT\FPGA_1920x1080_30Hz\rtl\Dvid_serdes\dvid_out.vhd</arg>&quot; line <arg fmt="%s" index="2">90</arg>: Output port &lt;<arg fmt="%s" index="3">full</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">out_fifo</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\_sync\MGSG\201705_MGSG-CIS-S6-FX3CON\sch_rev101\codes\HDMI_TMDS_VIDEO_OUT\FPGA_1920x1080_30Hz\rtl\Dvid_serdes\dvid_out.vhd</arg>&quot; line <arg fmt="%s" index="2">90</arg>: Output port &lt;<arg fmt="%s" index="3">empty</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">out_fifo</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">HDMI_TMDS_VIDEO_OUT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">HDMI_TMDS_VIDEO_OUT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">HDMI_TMDS_VIDEO_OUT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">HDMI_TMDS_VIDEO_OUT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">HDMI_TMDS_VIDEO_OUT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">HDMI_TMDS_VIDEO_OUT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">s_cnt_32bit_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">HDMI_TMDS_VIDEO_OUT</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="1901" delta="old" >Instance <arg fmt="%s" index="1">dvid_serdes_u0/Inst_clocking/PLL_BASE_inst</arg> in unit <arg fmt="%s" index="2">dvid_serdes_u0/Inst_clocking/PLL_BASE_inst</arg> of type <arg fmt="%s" index="3">PLL_BASE</arg> has been replaced by <arg fmt="%s" index="4">PLL_ADV</arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">dvid_serdes_u0/i_dvid_out/ser_in_clock_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">HDMI_TMDS_VIDEO_OUT</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;dvid_serdes_u0/i_dvid_out/ser_in_clock_3&gt; &lt;dvid_serdes_u0/i_dvid_out/ser_in_clock_2&gt; &lt;dvid_serdes_u0/i_dvid_out/ser_in_clock_1&gt; &lt;dvid_serdes_u0/i_dvid_out/ser_in_clock_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/rpntr/gc0.count_d1_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">dvid_serdes_u0/i_dvid_out/out_fifo</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/rpntr/gc0.count_d1_0_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.wr/gwas.wsts/ram_full_i</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">dvid_serdes_u0/i_dvid_out/out_fifo</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.wr/gwas.wsts/ram_full_fb_i&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/gras.rsts/ram_empty_i</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">dvid_serdes_u0/i_dvid_out/out_fifo</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/gras.rsts/ram_empty_fb_i&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/rpntr/gc0.count_d1_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">dvid_serdes_u0/i_dvid_out/out_fifo</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/rpntr/gc0.count_d1_0_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.wr/gwas.wsts/ram_full_i</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">dvid_serdes_u0/i_dvid_out/out_fifo</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.wr/gwas.wsts/ram_full_fb_i&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2260" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/gras.rsts/ram_empty_i</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">dvid_serdes_u0/i_dvid_out/out_fifo</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg> : <arg fmt="%s" index="4">&lt;U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/gras.rsts/ram_empty_fb_i&gt; </arg>
+</msg>
+
+</messages>
